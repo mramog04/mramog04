@@ -1,7 +1,7 @@
 # ¡Hola! Soy Diego Díaz Mendaña 👋
 
-🎓 **Estudiante de Doble Grado en Ingeniería Informática de Software y Matemáticas.**  
-Soy una persona entusiasta del aprendizaje, especialmente en programación, desarrollo web y análisis de datos. Me interesa seguir creciendo en proyectos que combinen tecnología y matemáticas.
+🎓 **Estudiante de Grado en Ingeniería Informática**  
+Soy un estudiante de programacion en la ULE, estoy abierto a todo tipo de proyectos en los que pueda aprender y mejorar.
 
 ---
 
@@ -17,47 +17,44 @@ Soy una persona entusiasta del aprendizaje, especialmente en programación, desa
 ---
 
 ## 🌟 **Sobre mí**
-- 💻 Disfruto explorando herramientas como Python, Django y FastAPI para desarrollar soluciones prácticas.
-- 🎯 Me interesan áreas como la ciencia de datos, la inteligencia artificial y el desarrollo web.
+- 💻 Me defiendo en programacion en c, java y python, tambien estoy aprendiendo rust.
+- 🎯 Me interesan áreas como la inteligencia artificial y el desarrollo de aplicacines.
 
 ---
 
 ## 🛠️ **Habilidades Técnicas**
 ### **Lenguajes y Frameworks**
-- **Python**: Experiencia con bibliotecas como Pandas, Flask y FastAPI.
-- **HTML y CSS**: Maquetación responsive y diseño básico.
-- **JavaScript**: Conceptos básicos para desarrollo web.
-- **Django**: Iniciándome en el desarrollo de aplicaciones web dinámicas.
+- **Python**: Experiencia con bibliotecas como Pandas.
+- **HTML y CSS**: Diseño básico.
+- **C y NCV**: Nivel basico en programacion en c y en programacion con el uso de graficas nvidia
 
 ### **Bases de Datos**
 - Conocimientos básicos en diseño y manejo de bases de datos.
 
 ### **Herramientas**
-- Jupyter Notebooks: Análisis de datos y prototipado.
 - Git y GitHub: Control de versiones y colaboración.
 
 ---
 
 ## 🚀 **Proyectos**
-### **1. CRUD en Python**
-- Desarrollo de un sistema sencillo de gestión de tareas utilizando Python y FastAPI.
+### **1. Rust**
+- Desarrollo de una aplicacion para el mundo de la musica 
 
-### **2. Maquetación Web Responsive**
-- Creación de diseños adaptables utilizando CSS Grid Layout y Mobile First.
+### **2. Programacion Java**
+- Desarrollo de una aplicacion facilmente adaptable a cualquier sistema electoral.
 
-### **3. Scripts de Análisis de Datos**
-- Exploración y manipulación de datos con Python y Pandas.
+### **3. Bases de datos**
+- Desarrollo de base de datos en OracleSQL para una orquesta
 
 ---
 
 ## 📚 **Formación**
-- **Matemáticas y Estadística**: Introducción a conceptos aplicados a ciencia de datos e inteligencia artificial.
-- **Programación**: Cursos de Python, FastAPI, Django, HTML y CSS.
+- **Programación**: Cursos de C,rust,Java,nvc.
 
 ---
 
 ## 🌱 **Qué busco**
-Actualmente estoy enfocado en aprender más sobre desarrollo web y ciencia de datos. Me encantaría participar en proyectos colaborativos o contribuir a iniciativas de código abierto para seguir desarrollando mis habilidades.
+Actualmente estoy enfocado en aprender más sobre desarrollo de aplicaciones. Me encantaría participar en proyectos colaborativos o contribuir a iniciativas de código abierto para seguir desarrollando mis habilidades.
 
 ---
 
@@ -69,7 +66,7 @@ Actualmente estoy enfocado en aprender más sobre desarrollo web y ciencia de da
 <!-- ![Actividad de contribución](https://github-readme-activity-graph.cyclic.app/graph?username=mramog04&theme=react-dark) -->
 **My last activity:**
 
-[![Mendaña's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=mramog04)](https://github.com/anuraghazra/github-readme-stats)
+[![Marco's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=mramog04)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
