@@ -1,4 +1,4 @@
-# ¡Hola! Soy Diego Díaz Mendaña 👋
+# ¡Hola! Soy Marco Ramos García 👋
 
 🎓 **Estudiante de Grado en Ingeniería Informática**  
 Soy un estudiante de programacion en la ULE, estoy abierto a todo tipo de proyectos en los que pueda aprender y mejorar.
